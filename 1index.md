@@ -98,31 +98,27 @@ Click here to view the source code:
 - ArduinoWebsockets  
 - ESP Mail Client  
 - LiquidCrystal_I2C  
-- ESP32 Camera  
+- ESP32 Camera
 
----
-
-## 📶 WiFi Configuration
+  ## 📶 WiFi Configuration
 
 ```cpp
 const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
+
 📧 Email Configuration
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 #define AUTHOR_EMAIL "your_email@gmail.com"
 #define AUTHOR_PASSWORD "app_password"
 #define RECIPIENT_EMAIL "owner_email@gmail.com"
-
-##🧠 Source Code
+🧠 Source Code
 
 🔗 Main Code File:
-👉 Click here to view the source code:  
-[Click here](https://github.com/Shrujan138/ESP32-CAM-Face-Recognition-Smart-Door-Lock-System-With-Email-Notification/blob/main/ESP32-CAM-Face-Recognition-Smart-Door-Lock-System-With-Email-Notification-main/FaceDoorEntryESP32Cam.ino/FaceDoorEntryESP32Cam.ino)
+👉 View Source Code
 
 📁 Full Project Repository:
-👉 Click here to view the source code:  
-[Click here](https://github.com/Shrujan138/ESP32-CAM-Face-Recognition-Smart-Door-Lock-System-With-Email-Notification)
+👉 View Repository
 
 🎮 Usage Instructions
 Power on the ESP32-CAM module
@@ -151,11 +147,7 @@ Shrujan M
 
 📧 mshrujan.28@gmail.com
 
-🔗 Click here to view the source code:  
-[Click here](https://www.linkedin.com/in/shrujan-m-804842361/)
+🔗 LinkedIn Profile
 
-📌 Conclusion
-
-This project demonstrates how IoT + AI + Embedded Systems can be integrated to build a secure, intelligent, and automated access control system.
-It provides a scalable solution for modern smart security applications.
+---
 
